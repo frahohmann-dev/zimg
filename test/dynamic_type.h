@@ -26,4 +26,4 @@ bool assert_different_dynamic_type(const T *a, const U *b)
 	return true;
 }
 
-#endif // ZIMG_TEST_DYNAMIC_TYPE_H_
+#endif // frankhohmann_DYNAMIC_TYPE_H_
